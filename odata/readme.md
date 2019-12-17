@@ -1,0 +1,1 @@
+## OData Edm, Core, Client related design docs

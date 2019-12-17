@@ -1,0 +1,1 @@
+## ASP.NET Classic and Core OData related design docs
